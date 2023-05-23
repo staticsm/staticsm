@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hello, I'm Static!
 
-<!--
-**SmStaticGit/SmStaticGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack Developer | Passionate about [Your Interests]
 
-Here are some ideas to get you started:
+💻 Specializing in JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Contributing to open-source projects and building innovative solutions
+
+🔭 Currently working on Bubble Hosting
+
+🌱 Always learning and exploring new technologies
+
+📚 Sharing my knowledge through blog posts and tutorials
+
+🎯 Seeking opportunities to collaborate and make a positive impact
+
+💡 Let's connect and build something awesome together!
+
+📫 Reach me at janujlouw@gmail.com
