@@ -2,7 +2,7 @@
 <h3 align="center">Love development</h3>
 <h3 align="center">Hire me for your projects</h3>
 
-<h3 align="center">🚀 Full-stack Developer | Passionate about [Your Interests]
+<h3 align="center">🚀 Full-stack Developer | Passionate about learning
 
 <h3 align="center">💻 Specializing in JAVA
 
@@ -11,8 +11,6 @@
 <h3 align="center">🔭 Currently working on Bubble Hosting
 
 <h3 align="center">🌱 Always learning and exploring new technologies
-
-<h3 align="center">📚 Sharing my knowledge through blog posts and tutorials
 
 <h3 align="center">🎯 Seeking opportunities to collaborate and make a positive impact
 
