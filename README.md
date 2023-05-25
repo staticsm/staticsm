@@ -3,18 +3,12 @@
 <h3 align="center">Want to chat with me? Discord: Static#1674</h3>
 
 <h3 align="center">💻 Working on Bubble Hosting
-  
-<h3 align="center">🚀 Full-stack Developer
 
 <h3 align="center">💻 Specializing in JAVA
-
-<h3 align="center">🌍 Contributing to open-source projects and building innovative solutions
 
 <h3 align="center">🔭 Currently working on Bubble Hosting
 
 <h3 align="center">🌱 Always learning and exploring new technologies
-
-<h3 align="center">🎯 Seeking opportunities to collaborate and make a positive impact
 
 <h3 align="center">💡 Let's connect and build something awesome together!
 
