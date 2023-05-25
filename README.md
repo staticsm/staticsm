@@ -4,7 +4,7 @@
 
 <h3 align="center">💻 Working on Bubble Hosting
   
-<h3 align="center">🚀 Full-stack Developer | Passionate about [Your Interests]
+<h3 align="center">🚀 Full-stack Developer
 
 <h3 align="center">💻 Specializing in JAVA
 
