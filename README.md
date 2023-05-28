@@ -1,5 +1,5 @@
 # 💫 About Me:
-Specializing in JAVA<br>Currently working on Bubble Hosting<br>Always learning and exploring new technologies<br>Let's connect and build something awesome together!
+Specializing in JAVA<br>Currently working on Bubble Hosting<br>Always learning and exploring new technologies<br>Let's connect and build something awesome together!<br>Need any work done?<br>Contact me on discord Static#1674
 
 
 # 💻 My Experiences:
