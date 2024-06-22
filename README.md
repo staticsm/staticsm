@@ -12,30 +12,20 @@
   </a>
 </p>
 
-```java
-public class Sy extends Person {
-    private String name;
-    private int age;
-    private List<String> work;
-    private List<String> education;
-    private List<String> hobbies;
+```python
+class Sy(Person):
+    def __init__(self):
+        self.name = 'Static'
+        self.age = 17
+        self.education = ['Studying Comp Sci']
+        self.hobbies = ['Homelabbing', 'Engineering']
 
-    public Sy() {
-        this.name = "Static";
-        this.age = 17;
-        this.work = Arrays.asList("Comp Sci Student");
-        this.hobbies = Arrays.asList("Gaming", "Engineering", "Homelabbing");
-    }
+    def current_location(self):
+        return 'CT, South Africa'
 
-    public String currentLocation() {
-        return "CT, South Africa";
-    }
-
-    public Map<String, List<String>> currently() {
-        return Map.of(
-            "studying", Arrays.asList("Computer Science"),
-            "tinkering", Arrays.asList("Docker Swarm", "Kubernetes")
-        );
-    }
-}
+    def currently(self):
+        return {
+            'studying': ['Comp Sci'],
+            'tinkering': ['Docker', 'k8s', 'Pen Testing']
+        }
 ```
