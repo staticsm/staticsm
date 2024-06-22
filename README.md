@@ -31,12 +31,6 @@ class Sy(Person):
 }
 ```
 
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical" alt="readme Quotes">
-  </a>
-</div>
-
 <h3 align="center">⚒ Quick stats about me:</h3>
 <p align="center">
   <table align="center">
