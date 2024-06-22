@@ -12,9 +12,6 @@
   </a>
 </p>
 
-
-
-
 ```java
 public class Sy extends Person {
     private String name;
