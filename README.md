@@ -29,7 +29,13 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
-<h3 align="center">Quick stats about me
+
+<h3 align="center">⚒ Quick stats about me:</h3>
+<p align="center">
+  
 | Github Stats | Top Languages |
 | --- | --- |
 ![SmStaticGit's Stats](https://github-readme-stats.vercel.app/api?username=SmStaticGit&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmStaticGit&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+  </a>
+</p>
+
