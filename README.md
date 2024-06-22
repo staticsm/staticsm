@@ -29,6 +29,7 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
+<h3 align="center">
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
