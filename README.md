@@ -29,10 +29,9 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
-
 <h3 align="center">⚒ Quick stats about me:</h3>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>
         <a href="https://github.com/SmStaticGit">
@@ -47,5 +46,4 @@ class Sy(Person):
     </tr>
   </table>
 </p>
-
 
