@@ -1,3 +1,11 @@
+<h3 align="center">Hey! I'm Static</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://profile-counter.deno.dev/:SmStaticGit:/count.svg" alt="Key:: Visitor's Count" />
+  </a>
+</p>
+
+
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,7 +57,7 @@ class Sy(Person):
   </table>
 </p>
 
-<h3 align="center">📄 Profile views:</h3>
+<h3 align="center"> Profile views:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://profile-counter.deno.dev/:SmStaticGit:/count.svg" alt="Key:: Visitor's Count" />
