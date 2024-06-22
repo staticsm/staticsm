@@ -1,6 +1,8 @@
-# Hi, I'm Static
+<div align="center">
+  <h1>Hi, I'm Static</h1>
+  <p>An aspiring comp sci student wanting to pursue a future in software.</p>
+</div>
 
-An aspiring comp sci student wanting to persue a future in software.
 
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
