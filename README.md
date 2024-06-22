@@ -32,5 +32,4 @@ class Sy(Person):
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-![SmStaticGit's Stats](https://github-readme-stats.vercel.app/api?username=SmStaticGit&theme=tokyonight&show_icons=true&hide_border=true&count_private=false) 
-![SmStaticGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmStaticGit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![SmStaticGit's Stats](https://github-readme-stats.vercel.app/api?username=SmStaticGit&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmStaticGit&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
