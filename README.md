@@ -49,12 +49,12 @@ class Sy(Person):
   <table align="center">
     <tr>
       <td>
-        <a href="https://github.com/SmStaticGit">
+        <a href="https://github.com/staticsm">
           <img src="https://github-readme-stats.vercel.app/api?username=SmStaticGit&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" alt="SmStaticGit's Stats" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/SmStaticGit">
+        <a href="https://github.com/staticsm">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmStaticGit&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="Sy's top languages" />
         </a>
       </td>
@@ -65,6 +65,6 @@ class Sy(Person):
 <h3 align="center"> Profile views:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://profile-counter.deno.dev/:SmStaticGit:/count.svg" alt="Key:: Visitor's Count" />
+    <img src="https://profile-counter.deno.dev/:staticsm:/count.svg" alt="Key:: Visitor's Count" />
   </a>
 </p>
