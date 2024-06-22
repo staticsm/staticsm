@@ -54,3 +54,5 @@ class Sy(Person):
     </tr>
   </table>
 </p>
+
+<img src="https://profile-counter.deno.dev/:SmStaticGit:/count.svg" alt="Key:: Visitor's Count" />
