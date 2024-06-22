@@ -17,7 +17,11 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical" alt="readme Quotes">
+  </a>
+</div>
 
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
