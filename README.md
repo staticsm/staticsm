@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Static</h1>
-  <p>An aspiring comp sci student wanting to pursue a future in software.</p>
+  <H2>An aspiring comp sci student wanting to pursue a future in software.</p>
 </div>
 
 
