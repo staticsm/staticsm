@@ -19,7 +19,7 @@
 </p>
 
 </p>
-<h3 align="center">⚒ Software I'm familiar with:</h3>
+<h3 align="center">📚 Software I'm familiar with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,docker,cloudflare,idea,java,py,html,debian,blender,wordpress,webstorm,vscode,vim,ubuntu,stackoverflow,redhat,raspberrypi,pycharm,ps,obsidian,nix,nodejs,nginx,mongodb,linux,js,grafana" />
