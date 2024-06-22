@@ -17,6 +17,8 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
