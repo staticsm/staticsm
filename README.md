@@ -1,16 +1,4 @@
-<h3 align="center">📄 Favorite Languages:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html" />
-  </a>
-</p>
-</p>
-<h3 align="center">⚒ Tools I use:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,docker,cloudflare,idea" />
-  </a>
-</p>
+
 
 ```python
 class Sy(Person):
@@ -29,6 +17,19 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
+<h3 align="center">📄 Favorite Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html" />
+  </a>
+</p>
+</p>
+<h3 align="center">⚒ Tools I use:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,docker,cloudflare,idea" />
+  </a>
+</p>
 <h3 align="center">⚒ Quick stats about me:</h3>
 <p align="center">
   <table align="center">
