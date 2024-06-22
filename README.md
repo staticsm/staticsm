@@ -1,3 +1,7 @@
+# Hi, I'm Static
+
+An aspiring comp sci student wanting to persue a future in software.
+
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
