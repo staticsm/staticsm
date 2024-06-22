@@ -55,4 +55,9 @@ class Sy(Person):
   </table>
 </p>
 
-<img src="https://profile-counter.deno.dev/:SmStaticGit:/count.svg" alt="Key:: Visitor's Count" />
+<h3 align="center">📄 Profile views:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://profile-counter.deno.dev/:SmStaticGit:/count.svg" alt="Key:: Visitor's Count" />
+  </a>
+</p>
