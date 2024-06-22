@@ -27,5 +27,5 @@ class Sy(Person):
         return {
             'studying': ['Comp Sci'],
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
-        }
+}
 ```
