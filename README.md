@@ -3,7 +3,6 @@
   <p1>An aspiring comp sci student wanting to pursue a future in software.</p>
 </div>
 
-
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
