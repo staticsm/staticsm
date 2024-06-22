@@ -29,3 +29,7 @@ class Sy(Person):
             'tinkering': ['Docker', 'k8s', 'Pen Testing']
 }
 ```
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+![SmStaticGit's Stats](https://github-readme-stats.vercel.app/api?username=SmStaticGit&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
