@@ -44,7 +44,7 @@ class Sy(Person):
 }
 ```
 
-<h3 align="center">⚒ Quick stats about me:</h3>
+<h3 align="center">🔎 Quick stats about me:</h3>
 <p align="center">
   <table align="center">
     <tr>
