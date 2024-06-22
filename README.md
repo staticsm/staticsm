@@ -1,3 +1,8 @@
+<h3 align="center">📄 Favorite Languages:</h3>
+<p align="center">
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+
 ```java
 public class Sy extends Person {
     private String name;
