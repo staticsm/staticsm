@@ -30,7 +30,7 @@
 class Sy(Person):
     def __init__(self):
         self.name = 'Static'
-        self.age = 17
+        self.age = 18
         self.education = ['Studying Comp Sci']
         self.hobbies = ['Homelabbing', 'Engineering']
 
