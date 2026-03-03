@@ -29,9 +29,9 @@
 ```python
 class Sy(Person):
     def __init__(self):
-        self.name = 'Static'
-        self.age = 18
-        self.education = ['Studying Comp Sci']
+        self.name = 'Zen'
+        self.age = 19
+        self.education = ['Studying Computer and Application Dev']
         self.hobbies = ['Homelabbing', 'Engineering']
 
     def current_location(self):
@@ -39,8 +39,8 @@ class Sy(Person):
 
     def currently(self):
         return {
-            'studying': ['Comp Sci'],
-            'tinkering': ['Docker', 'k8s', 'Pen Testing']
+            'studying': ['Studying Computer and Application Dev'],
+            'tinkering': ['Java', 'CSS', 'Python']
 }
 ```
 
