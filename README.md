@@ -1,28 +1,14 @@
 
 ```python
 class Static:
-    focus = [
-        "Linux Infrastructure",
-        "Networking",
-        "Virtualisation",
-        "Server Hardware"
-    ]
-
+    focus = ["Linux Infrastructure", "Networking", "Virtualisation"]
     currently_building = "Proxmox Infrastructure Homelab"
-
-    currently_learning = [
-        "Linux Administration",
-        "Virtual Networking",
-        "Monitoring",
-        "Infrastructure Automation"
-    ]
+    learning = ["Linux Administration", "Monitoring", "Automation"]
 ```
 
 🔭 Building and documenting a Proxmox infrastructure homelab
 
-🌱 Currently developing deeper skills in Linux administration, virtual networking, monitoring, firewalls and infrastructure automation
-
-💬 Interested in Proxmox, Linux, networking, virtualisation and server hardware
+🌱 Developing deeper skills in Linux administration, networking, monitoring and automation
 
 ⚡ Previously ran a Dell PowerEdge R730 homelab for around two years
 
