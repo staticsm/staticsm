@@ -18,7 +18,7 @@ class Static:
 
 ```
 
-🔭 I’m currently working on a documented Proxmox infrastructure homelab<br><br>🌱 I’m currently learning Linux system administration, virtual networking,<br>   monitoring, firewalls and infrastructure automation<br><br>💬 Interested in Proxmox, Linux, networking, virtualisation and server hardware<br><br>⚡ ⚡ Fun fact: I previously ran a Dell PowerEdge R730 homelab for around two years
+🔭 I’m currently working on a documented Proxmox infrastructure homelab<br><br>🌱 I’m currently learning Linux system administration, virtual networking,<br>   monitoring, firewalls and infrastructure automation<br><br>💬 Interested in Proxmox, Linux, networking, virtualisation and server hardware<br><br>⚡ Fun fact: I previously ran a Dell PowerEdge R730 homelab for around two years
 
 
 # Tools & Technologies:
