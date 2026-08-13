@@ -1,70 +1,24 @@
-<div align="center">
-  <h1>Hi, I'm Static</h1>
-  <p1>An aspiring comp sci student wanting to pursue a future in software.</p>
-</div>
-
-<h3 align="center">📄 Favorite Languages:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html" />
-  </a>
-</p>
-
-</p>
-<h3 align="center">⚒ Tools I use:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,docker,cloudflare,idea" />
-  </a>
-</p>
-
-</p>
-<h3 align="center">📚 Software I'm familiar with:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,docker,cloudflare,idea,java,py,html,debian,blender,wordpress,webstorm,vscode,vim,ubuntu,stackoverflow,redhat,raspberrypi,pycharm,ps,obsidian,nix,nodejs,nginx,mongodb,linux,js,grafana" />
-  </a>
-</p>
 
 ```python
 class Sy(Person):
     def __init__(self):
-        self.name = 'Zen'
-        self.age = 19
-        self.education = ['Studying Computer and Application Dev']
+        self.name = 'Static'
+        self.age = 20
+        self.education = ['Studying Computer and Application Development']
         self.hobbies = ['Homelabbing', 'Engineering']
 
     def current_location(self):
-        return 'CT, South Africa'
+        return 'South Africa'
 
     def currently(self):
         return {
-            'studying': ['Studying Computer and Application Dev'],
-            'tinkering': ['Java', 'CSS', 'Python']
+            'studying': ['Studying Computer and Application Development'],
+            'tinkering': ['Proxmox', 'Ubuntu', 'Bash']
 }
 ```
 
-<h3 align="center">🔎 Quick stats about me:</h3>
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/staticsm">
-          <img src="https://github-readme-stats.vercel.app/api?username=staticsm&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" alt="SmStaticGit's Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/staticsm">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticsm&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="Sy's top languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+🔭 I’m currently working on a documented Proxmox infrastructure homelab<br><br>🌱 I’m currently learning Linux system administration, virtual networking,<br>   monitoring, firewalls and infrastructure automation<br><br>💬 Ask me about Proxmox, homelabs, Linux, networking and server hardware<br><br>⚡ Fun fact: I previously ran a Dell PowerEdge R730 homelab for several years
 
-<h3 align="center"> Profile views:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://profile-counter.deno.dev/:staticsm:/count.svg" alt="Key:: Visitor's Count" />
-  </a>
-</p>
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
