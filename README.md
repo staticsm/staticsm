@@ -9,17 +9,29 @@ class Static:
     ]
 
     currently_building = "Proxmox Infrastructure Homelab"
+
     currently_learning = [
         "Linux Administration",
         "Virtual Networking",
         "Monitoring",
         "Infrastructure Automation"
     ]
-
 ```
 
-🔭 I’m currently working on a documented Proxmox infrastructure homelab<br><br>🌱 I’m currently learning Linux system administration, virtual networking,<br>   monitoring, firewalls and infrastructure automation<br><br>💬 Interested in Proxmox, Linux, networking, virtualisation and server hardware<br><br>⚡ Fun fact: I previously ran a Dell PowerEdge R730 homelab for around two years
+🔭 Building and documenting a Proxmox infrastructure homelab
 
+🌱 Currently developing deeper skills in Linux administration, virtual networking, monitoring, firewalls and infrastructure automation
+
+💬 Interested in Proxmox, Linux, networking, virtualisation and server hardware
+
+⚡ Previously ran a Dell PowerEdge R730 homelab for around two years
+
+## Featured Project
+
+### [Infrastructure Operations Home Lab](https://github.com/staticsm/infrastructure-homelab)
+
+A documented Proxmox VE homelab focused on Linux administration,
+virtual networking, secure remote access, troubleshooting and infrastructure operations.
 
 # Tools & Technologies:
 
