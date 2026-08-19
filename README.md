@@ -1,6 +1,6 @@
 
 ```python
-class Static:
+class eventualdrift:
     focus = ["Linux Infrastructure", "Networking", "Virtualisation"]
     currently_building = "Proxmox Infrastructure Homelab"
     learning = ["Linux Administration", "Monitoring", "Automation"]
